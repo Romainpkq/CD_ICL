@@ -16,11 +16,10 @@ pip install -e .
 ## Examples
 Following example shows you how to perform ICL on sentiment classification dataset. 
 ```
-# predict
 bash run/run_origin.sh
 ```
 
 ```python
-# calculate the accuracy
+# predict
 python run/predict.py
 ```
